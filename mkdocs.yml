@@ -1,0 +1,16 @@
+site_name: RecreioHelp
+
+repo_url: https://github.com/Vastier/RecreioHelp/
+
+
+
+nav:
+  - Home: index.md
+  - Ajuda: perguntas.md
+
+theme: 
+    name: cyborg
+
+
+
+
