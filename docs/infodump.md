@@ -6,16 +6,55 @@
 
 
 
+
+Pedir para remover post
+https://www.instagram.com/p/B-GfD03HDgE/
+
+
+
+
+
+
+
+
+http://prepara.estacio.br/presencial
+
+https://linktr.ee/EstacioRecreioBw
+
+https://sia.estacio.br/sianet/logon
+
+http://estacio.webaula.com.br/ead/
+
 http://portaldoaluno.webaula.com.br/portal/modules/login/
 
 https://atividadeacademicacomplementar.webaula.com.br/skin/atena/training/online?progressStatus=6
 
 https://educare.atenalms.com.br/skin/atena/login
 
+http://renova.estacio.br/
+
+http://planodeestudo.estacio.br/
+
+https://www.vagasestacio.com.br/Login.aspx?ReturnUrl=%2Fcandidato
 
 
 
-Contatos:
+
+
+
+Biblioteca com problemas
+Mudar senha do SIA
+Instalar/ativar Flash (Chrome/Edge/Firefox)
+Limpar Cache Teams (PC/Telefone)
+Abrir Requerimentos
+
+
+
+
+
+
+
+Contatos?:
 
 
 21 97618-4758 TI - Suporte Campus Recreio 
