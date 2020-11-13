@@ -5,8 +5,10 @@ site_name: RecreioHelp
 
 
 nav:
-  - Home: index.md
-  - Ajuda: perguntas.md
+  - Início: index.md
+  - Boas Vindas, Calouros!: calouros.md
+  - Perguntas Frequentes: faq.md
+  - Guias: guias.md
 
 theme: 
     name: cyborg
