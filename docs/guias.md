@@ -1,6 +1,14 @@
-# Perguntas 
+# Guias
 
-## Teams/Office/Email de aluno
+
+## Resetar Senha do SIA
+
+
+
+
+
+
+## Criação de Teams/Office/Email de aluno
 
 ### O que eu preciso para entrar no Teams/Baixar o Office?
 
