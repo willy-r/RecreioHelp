@@ -6,7 +6,7 @@ site_name: RecreioHelp
 
 nav:
   - Início: index.md
-  - Boas Vindas, Calouros!: calouros.md
+#  Boas Vindas, Calouros!: calouros.md
   - Perguntas Frequentes: faq.md
   - Guias: guias.md
 
