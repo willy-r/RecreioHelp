@@ -11,7 +11,7 @@ nav:
   - Guias: guias.md
 
 theme: 
-    name: cyborg
+    name: darkly
 
 
 
